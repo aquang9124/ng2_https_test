@@ -1,3 +1,6 @@
 # important files
 cert.pem
 key.pem
+
+# dependencies
+/node_modules
